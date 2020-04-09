@@ -1,0 +1,35 @@
+/* navbar */
+
+.navbar{
+    padding-top: 0;
+    padding-bottom: 0;
+
+}
+
+
+.navbar-brand {
+
+    background-color: teal;
+       color: white;   
+       padding: 10px 20px;
+  
+}
+.navbar-light .navbar-brand,
+.navbar-light .navbar-brand:hover
+{
+
+    color: white;
+}
+
+main {
+
+    background-color: grey;
+}
+
+/* main */
+
+.content-box1{
+
+    background-color: white;
+    padding: 20px;
+}
