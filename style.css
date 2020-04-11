@@ -6,7 +6,12 @@
 
 }
 
+/*  
+.navbar .container {
+    display:block
+}
 
+*/
 .navbar-brand {
 
     background-color: teal;
@@ -28,8 +33,70 @@ main {
 
 /* main */
 
+.navbar-nav {
+    flex-direction: row;
+}
+
 .content-box1{
 
     background-color: white;
-    padding: 20px;
+    padding: 30px;
+}
+
+body{
+
+    background-color: lightgrey;
+
+}
+
+/* About me Section*/
+
+#secondrow {
+    margin-left: 17px;
+    margin-top: 15px;
+}
+
+
+
+h1 {
+
+    border-bottom:lightgray 2.5px solid;
+   
+}
+
+
+
+footer{
+
+    text-align: center;
+    background-color: lightgrey;
+    color: white;
+    border-top: teal 5px solid;
+    padding-top: 10px;
+    font-size: 20px;
+}
+
+
+/* Media Query */
+
+@media (max-width:991px){
+
+    .navbar .container-lg {
+        display:block;
+        
+    }
+
+    .navbar-brand {
+        display: block;
+        text-align: center;
+        margin-right: -15px;
+    }
+
+    .navbar {
+        padding: 0px;
+        text-align: center;
+    }
+    
+
+
 }
