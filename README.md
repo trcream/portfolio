@@ -4,19 +4,17 @@ Welcome to my responsive portolio. This is my first real project, and I hope you
 
 ## Table of Contents
 
-* index.html
-* portfolio.html
-* contact.html
-
+- index.html
+- portfolio.html
+- contact.html
 
 ## Technologies
 
-* HTML 5
-* CSS
+- HTML 5
+- CSS
 
 ## Coming Soon
-* Javascript
-* Portfolio Uploads
-* Ongoing HTML/CSS improvements
 
-
+- Javascript
+- Portfolio Uploads
+- Ongoing HTML/CSS improvements
